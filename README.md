@@ -22,7 +22,7 @@ Must-read papers and related awesome resources on word and sentence representati
 - Glyce: Glyph-vectors for Chinese Character Representations (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.10125v1.pdf) - *`Glyce 1.0`*
 - Glyce: Glyph-vectors for Chinese Character Representations (NeurIPS 2019) [[paper]](https://arxiv.org/pdf/1901.10125.pdf)[[code]](https://github.com/ShannonAI/glyce)  - *`Glyce 2.0`*
 
-# Repositories
+## Repositories
 - [**awesome sentence/word embedding**](https://github.com/Separius/awesome-sentence-embedding)
 - [**Chinese Word Vectors**](https://github.com/Embedding/Chinese-Word-Vectors)
   - BNU open source Chinese word vectors trained with different representations, context features and corpora
