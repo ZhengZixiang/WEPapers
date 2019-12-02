@@ -27,8 +27,8 @@ Must-read papers and related awesome resources on word and sentence representati
 - Joint Embeddings of Chinese Words, Characters, and Fine-grained Subcharacter Components (EMNLP 2017) [[paper]](https://www.aclweb.org/anthology/D17-1027/) - *JWE*
 - cw2vec: Learning Chinese Word Embeddings with Stroke n-gram Information (AAAI 2018) [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17444)
 - VCWE: Visual Character-Enhanced Word Embeddings (NAACL 2019) [[paper]](https://www.aclweb.org/anthology/N19-1277/)[[code]](https://github.com/HSLCY/VCWE)
-- Glyce: Glyph-vectors for Chinese Character Representations (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.10125v1.pdf) - *`Glyce 1.0`*
-- Glyce: Glyph-vectors for Chinese Character Representations (NeurIPS 2019) [[paper]](https://arxiv.org/pdf/1901.10125.pdf)[[code]](https://github.com/ShannonAI/glyce)  - *`Glyce 2.0`*
+- Glyce: Glyph-vectors for Chinese Character Representations (CoRR 2019) [[paper]](https://arxiv.org/pdf/1901.10125v1.pdf) - *Glyce 1.0*
+- Glyce: Glyph-vectors for Chinese Character Representations (NeurIPS 2019) [[paper]](https://arxiv.org/pdf/1901.10125.pdf)[[code]](https://github.com/ShannonAI/glyce)  - *Glyce 2.0*
 
 ## Repositories
 - [**awesome sentence/word embedding**](https://github.com/Separius/awesome-sentence-embedding)
